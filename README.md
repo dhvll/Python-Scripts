@@ -1,2 +1,2 @@
 # Python-Scripts
-Python scripts for basic networking and monitoring network.
+Python scripts for monitoring network.
