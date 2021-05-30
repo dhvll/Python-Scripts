@@ -1,0 +1,2 @@
+220 (vsFTPd 2.3.4)
+SSH-2.0-OpenSSH_4.7p1 Debian-8ubuntu1
